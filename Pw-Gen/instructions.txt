@@ -1,0 +1,8 @@
+make sure you have python in PATH!
+
+1. Start "main.py" , enter a name
+2. The Result will Displayed. 
+
+Without Limit and Proxys LMAO
+
+For help or questions, My Telegram: @vardxg!
